@@ -86,10 +86,6 @@ ul li {
     list-style: none;
 }
 
-/* nav{
-    inset-inline-end: -50px;
-} */
-
 .navbar{
     display: flex;
     justify-content: space-between;
